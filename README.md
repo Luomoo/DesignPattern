@@ -11,6 +11,11 @@
     3. 双重校验 **推荐**（type5）
     4. 静态内部类 **推荐**（type6）
     5. 枚举实现 **推荐**（type7）
-    
+### 工厂模式
+1. 简单工厂（simplefactory）
+2. 工厂方法（factorymethod）
+3. 抽象工厂模式（abstractfactory）
+### 建造者模式
+1. 建造者（builder）
 
  
